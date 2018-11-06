@@ -34,7 +34,8 @@
             android:id="@+id/button"
             android:layout_width="104dp"
             android:layout_height="wrap_content"
-            android:text="Socket Send" />
+            android:text="Socket Send"
+            android:onClick="send_onClick"/>
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
